@@ -1,11 +1,5 @@
 1. PAKE FLEX BOX
 2. DESAIN MINIMALIS
-3. KATEGORI BUKU 
-  KLASIK
-  FIKSI ILMIAH
-  FIKSI UMUM
-  RELIGI
-  non-fiksi
-4. Membuat Lapak artikel
+3. Membuat Lapak artikel
   rekomendasi buku
-5. fitur review film
+4. fitur review film
