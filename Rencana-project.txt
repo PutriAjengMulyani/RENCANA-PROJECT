@@ -2,3 +2,5 @@ Rencana-project :
 1. Membuat Project Website review buku sederhana
 2. Membuat Project Website Music Player
 3. Membuat Project website PDF Reader
+4. Membuat Bot menggunakan Python
+5. Webscrapper menggunakan Python
