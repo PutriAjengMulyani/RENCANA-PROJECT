@@ -7,4 +7,5 @@
   RELIGI
   non-fiksi
 4. Membuat Lapak artikel
-  insight dari buku yng di baca
+  rekomendasi buku
+5. fitur review film
