@@ -5,4 +5,6 @@
   FIKSI ILMIAH
   FIKSI UMUM
   RELIGI
+  non-fiksi
 4. Membuat Lapak artikel
+  insight dari buku yng di baca
